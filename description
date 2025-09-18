@@ -1,0 +1,25 @@
+Cisco Packet Tracer Labs
+
+This repository contains networking labs created using Cisco Packet Tracer.
+The file lab1,2,3.pkt includes multiple labs that demonstrate basic networking concepts and configurations.
+
+Labs Included
+
+Lab 1: Basic router and switch configuration
+
+Lab 2: IP addressing and connectivity testing
+
+Lab 3: Advanced setup with routing and end devices
+
+How to Open
+
+Download and install Cisco Packet Tracer
+.
+
+Open the .pkt file directly in Packet Tracer.
+
+Explore the topology and try running different network tests (ping, telnet, etc.).
+
+Purpose
+
+These labs are designed for students and beginners who want to practice networking fundamentals, including device configuration, troubleshooting, and protocol testing.
